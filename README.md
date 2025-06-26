@@ -1,0 +1,1 @@
+This repository contains work done as part of a Computer Networking project offered by the Electrical Engineering Association (EEA), IIT Kanpur. The project focused on learning basic networking concepts and building simple applications using Python.
